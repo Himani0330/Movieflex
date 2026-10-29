@@ -107,11 +107,13 @@ const MainHeader = () => {
             display: { xs: "flex", md: "none" },
             flexGrow: 1,
             fontWeight: 700,
-            color: "inherit",
+            color: "#E50914",
+            fontFamily: "'Bebas Neue', 'Impact', sans-serif",
+            letterSpacing: "1.5px",
             textDecoration: "none",
           }}
         >
-          Netflix
+          MovieFlex
         </Typography>
         <Stack
           direction="row"
